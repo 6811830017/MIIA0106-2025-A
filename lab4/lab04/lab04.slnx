@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../จำนวนเฉพาะ/จำนวนเฉพาะ.vcxproj" />
+  <Project Path="../ตารางสูตรคูณ/ตารางสูตรคูณ.vcxproj" />
+  <Project Path="../ระบบควบคุมรถวิ่งตามเส้น/ระบบควบคุมรถวิ่งตามเส้น.vcxproj" />
+  <Project Path="../หาผลรวมของเลข1-100/หาผลรวมของเลข1-100.vcxproj" />
+  <Project Path="../เกมทายเลข/เกมทายเลข.vcxproj" />
+  <Project Path="../เลขคู่2-20/เลขคู่2-20.vcxproj" />
+  <Project Path="lab04.vcxproj" />
+</Solution>
